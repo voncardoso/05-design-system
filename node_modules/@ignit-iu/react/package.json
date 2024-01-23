@@ -15,9 +15,12 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@ignit-iu/eslint-config": "*",
     "@ignit-iu/tokens": "*",
     "@ignit-iu/ts-config": "*",
-    "@ignit-iu/eslint-config": "*",
+    "@types/react": "^18.2.48",
+    "@types/react-dom": "^18.2.18",
+    "react": "^18.2.0",
     "tsup": "^8.0.1",
     "typescript": "^5.3.3"
   }
